@@ -2,6 +2,7 @@ import '../flutter_flow/flutter_flow_theme.dart';
 import '../flutter_flow/flutter_flow_util.dart';
 import '../flutter_flow/flutter_flow_widgets.dart';
 import '../splash_screen/splash_screen_widget.dart';
+import '../stock_in/stock_in_widget.dart';
 import 'package:flutter/material.dart';
 import 'package:font_awesome_flutter/font_awesome_flutter.dart';
 import 'package:google_fonts/google_fonts.dart';
@@ -101,8 +102,13 @@ class _DashboardWidgetState extends State<DashboardWidget> {
                           Padding(
                             padding: EdgeInsets.fromLTRB(0, 55, 0, 0),
                             child: FFButtonWidget(
-                              onPressed: () {
-                                print('Button pressed ...');
+                              onPressed: () async {
+                                await Navigator.push(
+                                  context,
+                                  MaterialPageRoute(
+                                    builder: (context) => StockInWidget(),
+                                  ),
+                                );
                               },
                               text: 'Stock In',
                               icon: Icon(

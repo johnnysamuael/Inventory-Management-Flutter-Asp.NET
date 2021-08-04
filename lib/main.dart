@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:rezzlon_inventory/splash_screen/splash_screen_widget.dart';
+import 'package:rezzlon_inventory/stock_in/stock_in_widget.dart';
+
 import 'flutter_flow/flutter_flow_theme.dart';
 
 void main() {
@@ -14,6 +16,7 @@ class MyApp extends StatelessWidget {
       title: 'Rezzlon Inventory',
       theme: ThemeData(primarySwatch: Colors.blue),
       home: SplashScreenWidget(),
+      //home: StockInWidget(),
     );
   }
 }
