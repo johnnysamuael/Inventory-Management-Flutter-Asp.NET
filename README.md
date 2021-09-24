@@ -33,19 +33,16 @@ greater speed, accuracy, productivity, agility and efficiency throughout your su
 
 - ### Reports:
 - Stock In Report ( Date-wise search, Item-wise search, Godown wise ):
-<img src="images/inreport.png" alt="Inventory Management - Rezzlon" border="0">
-
 - Stock Out Report (Date-wise search, Item-wise search, Godown wise ):
-<img src="images/outreport.png" alt="Inventory Management - Rezzlon" border="0">
-
 - Closing Stock Report ( Inward / Outward efficiency calculation and report of current stock in the godown ):
-<img src="closingreport.png" alt="Inventory Management - Rezzlon" border="0">
-
 - FIFO Violation Report ( Any violation of FIFO in the godown is marked by IEWMS and be viewed:
-<img src="violation.png" alt="Inventory Management - Rezzlon" border="0">
-
 - QR Code Report (Date-wise, Item-wise, Inward Number wise and type-wise):
-<img src="qr.png" alt="Inventory Management - Rezzlon" border="0">
+
+<img src="outreport.png" alt="Inventory Management - Rezzlon" border="0">
+
+- Items Management 
+<img src="items.png" alt="Inventory Management - Rezzlon" border="0">
+
 
 
   
