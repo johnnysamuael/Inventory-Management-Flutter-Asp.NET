@@ -55,15 +55,16 @@ greater speed, accuracy, productivity, agility and efficiency throughout your su
   </p>
 
 ## Appendix
+- FIFO and LIFO Compatible Inventory Management System : 
+Rezzlon provides client customizable solutions to ensure faster beltway for improved order processing
 
-This is done using PHP and can be tested with the hosted version on my personal server : http://floodanalyser.com/flamapp/flam.php
+- Multi-Location Management : 
+You can manage inventory and stocks at the company level or warehouse level.
 
+- Easy and Understandable Reports : 
+User friendly reports of all processes and stocks in the inventory
 
-This form sends a post request with the following parameters (Image, quality, height and width). If height and width are not specified the quality is reduced as per the parameter inputted. If quality and the hxw are provided, the image is compressed and resized.
-
-This creates a token based on the timestamp and appends it with every image uploaded so there are no clashes with other service requests with the same name. We also can use the temporary image path provided from the local device but it's vulnerable to change with refresh or no activity. I have also included a statement at the end of compression which shows its original size vs compressed size
-
-Certain test cases such as the quality cannot be less than 0 or higher than 100, or the file not being uploaded and other basic test cases have been checked and tested
-
+- All services in one : 
+Manage Inward Processes, Outward Processes, Stock Movement, FIFO violations and many more.
 
   
