@@ -38,10 +38,10 @@ greater speed, accuracy, productivity, agility and efficiency throughout your su
 - FIFO Violation Report ( Any violation of FIFO in the godown is marked by IEWMS and be viewed:
 - QR Code Report (Date-wise, Item-wise, Inward Number wise and type-wise):
 
-<img src="outreport.png" alt="Inventory Management - Rezzlon" border="0">
+<img src="images/outreport.png" alt="Inventory Management - Rezzlon" border="0">
 
 - Items Management 
-<img src="items.png" alt="Inventory Management - Rezzlon" border="0">
+<img src="images/items.png" alt="Inventory Management - Rezzlon" border="0">
 
 
 
