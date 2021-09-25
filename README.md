@@ -48,7 +48,11 @@ greater speed, accuracy, productivity, agility and efficiency throughout your su
   
 ## Flutter Mobile Scanner App made to connect with the online portal: 
 
-<img src="" alt="Inventory Management - Rezzlon" width="1200" height="500">
+<img src="images/mockup.gif" alt="Inventory Management - Rezzlon" width="1200" height="500">
+<p align="center">
+<img src="images/phone_login.png" alt="Inventory Management - Rezzlon" width="600" height="800" >
+<img src="images/stockin_phone.png" alt="Inventory Management - Rezzlon" width="500" height="1000">
+  </p>
 
 ## Appendix
 
